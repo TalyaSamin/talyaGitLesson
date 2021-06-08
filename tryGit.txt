@@ -1,3 +1,4 @@
 "hi talya 08/06/2021"
 "add text"
 "get the text from the git"
+"i get this text"
